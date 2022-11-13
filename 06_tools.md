@@ -1,1 +1,1 @@
-
+I'd like to compare ways to create and judge engagement and understanding during a lesson like Desmos. vs. Peardeck.  Both Peardeck and teacher.desmos.com allow you to observe students work in real time, and allow for surveys and quizzes.   Desmos, however has many built in math functions, and you can program your own fancy stuff into it.  Desmos also has a growing group of talented math educators creating and sharing content. 
