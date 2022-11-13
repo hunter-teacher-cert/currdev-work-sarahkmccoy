@@ -1,4 +1,4 @@
-# Programming Elective: Using CS in and Interdisciplinary Context
+# Programming Elective: Using CS in an Interdisciplinary Context
 
 ## by Sarah McCoy
 
