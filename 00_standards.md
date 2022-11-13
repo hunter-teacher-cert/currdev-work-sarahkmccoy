@@ -3,14 +3,18 @@
 ### Clarifying Statement
 The focus is on developing and defending a claim about a specific ethical dilemma related to computing technologies
 ### Activity - Social Implication Spectrograph
-Teacher will provide a series of debatable statements related to ethics and social implication of technology and AI. Students will then align themselves throughout the room to signal how strongly they Agree or Disagree with the presented statement. Teacher will then use discussion protocol to allow students to explain and elaborate on their stance.
+Teacher will provide a series of debatable statements related to ethics and social implication of technology and AI. Students will then align themselves around the room using the "4 corners":  Agree, disagree, strongly agree, strongly disagree.  they Agree or Disagree with the presented statement. Teacher will then use discussion protocol to allow students to explain and elaborate on their stance.
 
 Examples of statements include (but are not limited to):
 
-1. Everyone benefits from developments in AI.
-2. If a robot commits a crime, no one is at fault.
-3. Robots/AI should be allowed to drive cars.
-4. If a computer has real intelligence, it should have the same rights as a human.
+1. It is ok to give up your privacy if it protects us.
+2. Since computers can't be biased, it is better to let them determine things like bail, sentencing, loan qualification etc.
+3. Everyone benefits from developments in AI.
+4. If a robot commits a crime, no one is at fault.
+5. Robots/AI should be allowed to drive cars.
+6. If a computer has real intelligence, it should have the same rights as a human.
+
+After the students have made their points, let them re-align around the room to show if their opinions changed.
 ***
 ***
 # 9-12.NSD.4
